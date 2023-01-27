@@ -18,7 +18,7 @@ This is a crowdfunding platform where users can pledge funds to and claim funds 
 ## Testing
 
 ```
-git clone
+git clone https://github.com/shubhamkr95/crowdFundCampaign.git
 
 cd NFT-DAO
 
